@@ -84,7 +84,7 @@ body {
     inset: 0;
     opacity: 0.2;
 }
-.h2 {font-size: 5rem;}
+.home h2 {position: relative;font-size: 5rem;}
 .home h2, .info h2, .story h2, .gallery h2, .rsvp h2, .gifts h2 {
     color:var(--lb);
     font-family:'Indie Flower', serif;
