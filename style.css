@@ -79,7 +79,7 @@ body {
 }
 .home h2, .info h2, .story h2, .gallery h2, .rsvp h2, .gifts h2 {
     color:var(--lb);
-    font-family:'Sacramento';
+    font-family:'Indie Flower', serif;
     font-size:5rem;
     font-weight:bold;
 }
