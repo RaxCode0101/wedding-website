@@ -6,7 +6,9 @@
 }
 body {
     font-size:1.2rem;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Lato', serif;
+    font-weight: 400;
+    font-style: normal;
     min-height:4000px;
     overflow:scroll;
 }
@@ -33,7 +35,7 @@ body {
     text-shadow:var(--shadow);
 }
 .hero h1 {
-    font-family:'Sacramento',cursive;
+    font-family: "Indie Flower", serif;
     font-size:6rem
 }
 .hero h4 {
