@@ -92,11 +92,13 @@ body {
     font-weight:bold;
 }
 .home h3 {
+    position: relative;
     color:#444;
     font-size:1.5rem;
     margin-bottom:1rem;
 }
 .home p {
+    position:relative;
     font-size:1.1rem;
     color:#666;
 }
